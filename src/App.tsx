@@ -95,7 +95,7 @@ function App() {
           </div>
           <div className="flex items-center space-x-4">
             <a 
-              href="https://github.com" 
+              href="https://github.com/Tal45/entropy-calc" 
               target="_blank" 
               rel="noreferrer"
               className="text-slate-400 hover:text-slate-600 transition-colors"
